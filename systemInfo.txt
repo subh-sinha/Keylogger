@@ -1,0 +1,6 @@
+Platform : Linux-6.7.4-200.fc39.x86_64-x86_64-with-glibc2.38
+Architecture : ('64bit', 'ELF')
+machine info : x86_64
+Platform System : Linux
+public ip 122.180.214.3
+Private ip = 192.168.1.6
